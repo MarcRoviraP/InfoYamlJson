@@ -31,7 +31,7 @@ Este es un **ejemplo** muy básico de un archivo YAML:
 El fichero YAML permite diferentes etiquetas, como por ejemplo:
 
 + **Nombre**: indica el nombre de la tarea a realizar. Se puede dar cualquier nombre lógico al archivo del codigo yaml
-+ **Hosts*: este campo es obligatorio y se encarga de especificar las listas o grupos de hosts sobre los que el usuario quiere ejecutar una tarea. Es posible que las tareas se ejecuten en una misma máquina, un equipo remoto o incluso en varios dispositivos, por lo que la etiqueta de hosts también puede tener una entrada de grupo.
++ **Hosts**: este campo es obligatorio y se encarga de especificar las listas o grupos de hosts sobre los que el usuario quiere ejecutar una tarea. Es posible que las tareas se ejecuten en una misma máquina, un equipo remoto o incluso en varios dispositivos, por lo que la etiqueta de hosts también puede tener una entrada de grupo.
 + **Vars**: esta etiqueta permite definir las variables a usar en la lista de tareas.
 + **Tasks**: contiene la lista de tareas a ejecutar y funciona como una hoja de ruta o texto de ayuda para el usuario. Aunque no es obligatorio, este campo es de gran utilidad para los usuarios, especialmente en lo que respecta a la depuración de la task list.
 
