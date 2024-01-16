@@ -15,7 +15,7 @@
 
 ## Sintaxis de YAML
 
-**YAML** utiliza una extensión de archivos **.yml* o **.yaml* y sigue reglas de sintaxis específicas. 
+**YAML** utiliza una extensión de archivos *.yml* o *.yaml* y sigue reglas de sintaxis específicas. 
 
 Este es un **ejemplo** muy básico de un archivo YAML:
 ```
